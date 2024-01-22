@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaa390e7-b177-417d-8f81-77920ed9c25d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/dashboard/customers/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/dashboard/invoices/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/dashboard/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/lib/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/lib/definitions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/lib/placeholder-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/lib/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/acme-logo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/customers/table.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/dashboard/nav-links.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/dashboard/sidenav.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/fonts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/breadcrumbs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/buttons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/create-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/edit-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/pagination.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/status.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/invoices/table.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/login-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/search.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/app/ui/skeletons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/amy-burns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/balazs-orban.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/delba-de-oliveira.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/emil-kowalski.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/evil-rabbit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/guillermo-rauch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/hector-simpson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/jared-palmer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/lee-robinson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/michael-novotny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/steph-dietz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/customers/steven-tey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/hero-desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/public/hero-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/scripts/seed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-dashboard/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bGy7gjTXMaSW4P1lKISLSLr6fx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa390e7-b177-417d-8f81-77920ed9c25d" name="Changes" comment="" />
+      <created>1705855545827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705855545827</updated>
+    </task>
+    <servers />
+  </component>
+</project>
