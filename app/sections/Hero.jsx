@@ -26,7 +26,7 @@ const Hero = () => {
           <span className="text-blue-600">!</span>
         </h1>
         <p className="font-medium lg:text-base md:text-sm text-xs text-gray-600 lg:mt-4 lg:mb-6 my-4">
-          We've a market experience of 20+ years and we've got all of your
+          We have a market experience of 20+ years and we have got all of your
           favourite brands.
         </p>
         <div className="flex items-center gap-2">
