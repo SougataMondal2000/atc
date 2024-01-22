@@ -30,14 +30,16 @@ const Hero = () => {
           favourite brands.
         </p>
         <div className="flex items-center gap-2">
-          <Button
-            label="Call us"
-            bgColor={"#2563eb"}
-            textColor={"white"}
-            logo={<FaPhone className="lg:w-5 lg:h-5" />}
-            hoverBgColor={"inherit"}
-            hoverTextColor={"#2563eb"}
-          ></Button>
+          <a href="tel:+91-7980522696">
+            <Button
+              label="Call us"
+              bgColor={"#2563eb"}
+              textColor={"white"}
+              logo={<FaPhone className="lg:w-5 lg:h-5" />}
+              hoverBgColor={"inherit"}
+              hoverTextColor={"#2563eb"}
+            ></Button>
+          </a>
           <Button
             label="WhatsApp us"
             bgColor={"inherit"}
