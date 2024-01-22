@@ -5,6 +5,8 @@ import heroImage from "../assets/sample.png";
 import Button from "../components/Button";
 import Typewriter from "typewriter-effect";
 import { FaWhatsapp, FaPhone } from "react-icons/fa6";
+import { LuMapPin } from "react-icons/lu";
+import Link from "next/link";
 
 const Hero = () => {
   return (
@@ -30,7 +32,7 @@ const Hero = () => {
           favourite brands.
         </p>
         <div className="flex items-center gap-2">
-          <a href="tel:+91-7980522696">
+          <Link href="tel:+91-9007841377">
             <Button
               label="Call us"
               bgColor={"#2563eb"}
@@ -39,15 +41,28 @@ const Hero = () => {
               hoverBgColor={"inherit"}
               hoverTextColor={"#2563eb"}
             ></Button>
-          </a>
-          <Button
+          </Link>
+          {/* <Button
             label="WhatsApp us"
             bgColor={"inherit"}
             textColor={"#2563eb"}
             logo={<FaWhatsapp className="lg:w-5 lg:h-5" />}
             hoverBgColor={"#2563eb"}
             hoverTextColor={"inherit"}
-          ></Button>
+          ></Button> */}
+          <Link
+            href="https://maps.app.goo.gl/n7z274L1QfPqxWrL6"
+            target="_blank"
+          >
+            <Button
+              label="Visit Us"
+              bgColor={"inherit"}
+              textColor={"#2563eb"}
+              logo={<LuMapPin className="lg:w-5 lg:h-5" />}
+              hoverBgColor={"#2563eb"}
+              hoverTextColor={"inherit"}
+            ></Button>
+          </Link>
         </div>
       </div>
       <div className="animate-bounce animate-infinite animate-duration-[2000ms] animate-ease-in">
