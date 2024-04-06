@@ -6,7 +6,7 @@ import Footer from "./sections/Footer";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Anukul Tradinng Corporation",
+  title: "Anukul Trading Corporation",
   description:
     "Get all your Hardware and Plumbing solutions at cheapest market rate!",
 };
